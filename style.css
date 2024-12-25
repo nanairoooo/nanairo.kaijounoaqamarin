@@ -1,0 +1,46 @@
+html{
+    background-color: rgb(102, 196, 246);
+    scroll-behavior: smooth;
+}
+
+body{
+    margin:0;
+}
+
+.main{
+    
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    line-height: 35px;
+    display: block;
+    padding: 50px;
+    background-color: #B3FFF7;
+   
+
+}
+
+img{
+    margin: auto;
+    display: blok;
+}
+
+    .flame{
+     text-align:center;
+     margin-top:30px;
+     margin-bottom:70px;
+    }
+   
+    .youtube{
+      text-align:center;
+
+    }
+
+    .youtube iframe {
+        aspect-ratio: 9 / 16;
+        margin-top:30px;
+        margin-bottom:70px;
+        width: 50%;
+        height: 50%;
+    }
